@@ -1,4 +1,4 @@
-Workshop for first-year Population Biology workshop
+Workshop for first-year Population Biology students
 ======================================
 
 This repo will contain files for workshop for incoming pop bio students.
